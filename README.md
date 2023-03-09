@@ -1,9 +1,9 @@
 # Laravel XML made easy!
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/flowgistics/laravel-xml.svg?style=flat-square)](https://packagist.org/packages/flowgistics/laravel-xml)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/flowgistics/laravel-xml/run-tests?label=tests)](https://github.com/flowgistics/laravel-xml/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/flowgistics/laravel-xml/Check%20&%20fix%20styling?label=code%20style)](https://github.com/flowgistics/laravel-xml/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/flowgistics/laravel-xml.svg?style=flat-square)](https://packagist.org/packages/flowgistics/laravel-xml)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/snowsoft/laravel-xml.svg?style=flat-square)](https://packagist.org/packages/snowsoft/laravel-xml)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/snowsoft/laravel-xml/run-tests?label=tests)](https://github.com/snowsoft/laravel-xml/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/snowsoft/laravel-xml/Check%20&%20fix%20styling?label=code%20style)](https://github.com/snowsoft/laravel-xml/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/flowgistics/laravel-xml.svg?style=flat-square)](https://packagist.org/packages/snowsoft/laravel-xml)
 
 This package handles importing and exporting XML data from your Laravel application.
 
@@ -26,8 +26,8 @@ This packages comes with a facade which you can use like this `\XML::` or use it
 
 In depth guides can be found here:
 
-* [Exporting](https://github.com/flowgistics/laravel-xml/wiki/Exporting)
-* [Importing](https://github.com/flowgistics/laravel-xml/wiki/Importing)
+* [Exporting](https://github.com/snowsoft/laravel-xml/wiki/Exporting)
+* [Importing](https://github.com/snowsoft/laravel-xml/wiki/Importing)
 
 
 ```php
