@@ -26,8 +26,8 @@ This packages comes with a facade which you can use like this `\XML::` or use it
 
 In depth guides can be found here:
 
-* [Exporting](https://github.com/snowsoft/laravel-xml/wiki/Exporting)
-* [Importing](https://github.com/snowsoft/laravel-xml/wiki/Importing)
+* [Exporting](https://github.com/Flowgistics/laravel-xml/wiki/Exporting)
+* [Importing](https://github.com/Flowgistics/laravel-xml/wiki/Importing)
 
 
 ```php
