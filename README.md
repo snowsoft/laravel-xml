@@ -18,7 +18,7 @@ The main features are
 You can install the package via composer:
 
 ```bash
-composer require flowgistics/laravel-xml
+composer require snowsoft/laravel-xml
 ```
 
 ## Usage
